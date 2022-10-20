@@ -26,7 +26,9 @@ const Post: React.FC<{ post: PostProps }> = ({ post }) => {
           padding: 2rem;
         }
       `}</style>
+
     </div>
+
   );
 };
 
